@@ -1,0 +1,71 @@
+
+Running 1 test using 1 worker
+
+  ✘  1 card.spec.ts:4:1 › build status card (5.1s)
+
+
+  1) card.spec.ts:4:1 › build status card ──────────────────────────────────────────────────────────
+
+    Error: expect(page).toHaveScreenshot(expected) failed
+
+    Timeout: 5000ms
+      Failed to take two consecutive stable screenshots.
+
+      Snapshot: card.png
+
+    Call log:
+      - Expect "toHaveScreenshot(card.png)" with timeout 5000ms
+        - verifying given screenshot expectation
+      - taking page screenshot
+        - disabled all CSS animations
+      - waiting for fonts to load...
+      - fonts loaded
+      - 476 pixels (ratio 0.01 of all image pixels) are different.
+      - waiting 100ms before taking screenshot
+      - taking page screenshot
+        - disabled all CSS animations
+      - waiting for fonts to load...
+      - fonts loaded
+      - 1344 pixels (ratio 0.03 of all image pixels) are different.
+      - waiting 250ms before taking screenshot
+      - taking page screenshot
+        - disabled all CSS animations
+      - waiting for fonts to load...
+      - fonts loaded
+      - 1440 pixels (ratio 0.03 of all image pixels) are different.
+      - waiting 500ms before taking screenshot
+      - taking page screenshot
+        - disabled all CSS animations
+      - waiting for fonts to load...
+      - fonts loaded
+      - 888 pixels (ratio 0.02 of all image pixels) are different.
+      3 × waiting 1000ms before taking screenshot
+        - taking page screenshot
+          - disabled all CSS animations
+        - waiting for fonts to load...
+        - fonts loaded
+        - 1440 pixels (ratio 0.03 of all image pixels) are different.
+      - waiting 1000ms before taking screenshot
+      - Timeout 5000ms exceeded.
+
+
+      5 |   await page.setContent(readFileSync(process.env.PAGE_FILE!, 'utf8'));
+      6 |   const mask = (process.env.MASK || '').split(',').filter(Boolean).map((s) => page.locator(s));
+    > 7 |   await expect(page).toHaveScreenshot('card.png', { mask });
+        |                      ^
+      8 | });
+      9 |
+        at work/1.65.1/card.spec.ts:7:22
+
+    attachment #1: card (image/png) ────────────────────────────────────────────────────────────────
+    Expected: snapshots/card.png
+    Received: out/card-build-status-card/card-actual.png
+    Previous: out/card-build-status-card/card-previous.png
+    Diff:     out/card-build-status-card/card-diff.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: out/card-build-status-card/error-context.md
+
+  1 failed
+    card.spec.ts:4:1 › build status card ───────────────────────────────────────────────────────────
+exit 1
