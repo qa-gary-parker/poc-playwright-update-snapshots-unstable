@@ -2,7 +2,7 @@
 
 **The question:** when a page never becomes stable, does `toHaveScreenshot` with `--update-snapshots=changed` or `all` keep a good baseline, or does it overwrite it and pass?
 
-**The answer:** it overwrites it and passes. In 226 of 226 update runs on a page with a JS animation or a live clock, the test passed with exit code 0 and replaced a good baseline with a random frame. The same pages failed in 202 of 202 runs without an update flag ("Failed to take two consecutive stable screenshots"). The next normal run of the unchanged page then failed in 226 of 226 runs. This happens on every version tested, from 1.40.0 (`-u`) to 1.65.1. Masking the moving element did not help for the animation (10 of 10 runs still overwrote). Masking its static container did: 0 overwrites in 40 update runs.
+**The answer:** it overwrites it and passes. In 226 of 226 update runs on a page with a JS animation or a live clock, the test passed with exit code 0 and replaced a good baseline with a random frame. The same pages failed in 202 of 202 runs without an update flag ("Failed to take two consecutive stable screenshots" from 1.49.1, "Screenshot comparison failed" on 1.40.0 and 1.45.0). The next normal run of the unchanged page then failed in 226 of 226 runs. This happens on every version tested, from 1.40.0 (`-u`) to 1.65.1. Masking the moving element did not help for the animation (10 of 10 runs still overwrote). Masking its static container did: 0 overwrites in 40 update runs.
 
 > Exploratory PoC, throwaway by default. Upstream issue: [microsoft/playwright#44128](https://github.com/microsoft/playwright/issues/44128).
 
