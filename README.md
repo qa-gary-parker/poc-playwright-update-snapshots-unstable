@@ -23,7 +23,7 @@
   2. Run the test page with one update setting: `none`, `missing`, `changed` or `all`. Before 1.50 the flag took no value, so `-u` stands for `all` and no flag for `missing`.
   3. Record the status, the exit code, the error line, and the number of baseline pixels that changed (`pixelmatch`, threshold 0.1).
   4. Run the stable page again with no update. This is the next normal CI run.
-- Versions: 1.58.2, 1.59.0, 1.59.1 and 1.65.1 with all 4 pages and 4 settings, 10 runs each. 1.40.0, 1.45.0, 1.49.1, 1.50.0, 1.52.0, 1.55.0 and 1.57.0 with the two unstable pages, 3 runs each.
+- Versions: 1.58.2, 1.59.0, 1.59.1 and 1.65.1 with all 4 pages and 4 settings, 10 runs each. 1.40.0, 1.45.0, 1.49.1, 1.50.0, 1.52.0, 1.55.0 and 1.57.0 with the two unstable pages, 3 runs each, with `missing` and `all` (plus `changed` from 1.50), not `none`.
 - Two mask arms on 1.65.1, 10 runs each: `mask: ['#bar', '#clock']` (the moving elements) and `mask: ['.track', '#clock']` (the bar's static container).
 - macOS 15.7.4, Node 24.14.1. 988 runs in total.
 
@@ -40,14 +40,14 @@ Unstable pages (js-animation and live-clock), no mask:
 
 - Pixels changed per overwrite: 692 to 1,412 for the animation, 114 to 231 for the clock.
 - The stable and css-animation pages passed in all 320 runs and no baseline pixel changed. Playwright disables CSS animations by default, so they were stable.
-- No version behaved differently. Issue #44128 says it first appeared on 1.59.1; 1.40.0 to 1.58.2 do the same.
+- No version behaved differently. The reporter of issue #44128 first saw it on 1.59.1; 1.40.0 to 1.58.2 do the same.
 
 Mask arms on 1.65.1 (js-animation and live-clock with `changed` or `all`, 40 runs per arm):
 
 | mask | overwritten | why |
 |---|---|---|
 | none | 40 | both pages never stable |
-| `#bar`, `#clock` | 20 (all js-animation) | the mask box moves with the bar, so the frames still differ |
+| `#bar`, `#clock` | 20 (all js-animation) | likely: the mask box moves with the bar, so the frames still differ (not measured) |
 | `.track`, `#clock` | **0** | the masked area does not move |
 
 ## Why

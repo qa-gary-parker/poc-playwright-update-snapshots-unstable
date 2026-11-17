@@ -51,7 +51,7 @@ async function pw(page, flag) {
   const report = JSON.parse(readFileSync(join(DIR, 'report.json'), 'utf8'));
   const result = report.suites[0]?.specs[0]?.tests[0]?.results[0];
   const lines = result?.error?.message?.replace(/\u001b\[[0-9;]*m/g, '').split('\n').map((l) => l.trim()).filter(Boolean) ?? [];
-  const error = lines.find((l) => /stable|pixels|different|snapshot/i.test(l) && !l.startsWith('Error:')) ?? lines[0] ?? null;
+  const error = [/stable screenshots/i, /comparison failed/i, /pixels|different/i].map((re) => lines.find((l) => re.test(l))).find(Boolean) ?? lines[0] ?? null;
   return { exit: code, status: result?.status ?? null, error, ms: Date.now() - t0 };
 }
 
