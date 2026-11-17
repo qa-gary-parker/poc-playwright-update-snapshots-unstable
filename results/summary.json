@@ -1,0 +1,1571 @@
+{
+  "totalRuns": 988,
+  "silentOverwritesByVersion": {
+    "1.40.0": 6,
+    "1.45.0": 6,
+    "1.49.1": 6,
+    "1.50.0": 12,
+    "1.52.0": 12,
+    "1.55.0": 12,
+    "1.57.0": 12,
+    "1.58.2": 40,
+    "1.59.0": 40,
+    "1.59.1": 40,
+    "1.65.1 mask #bar,#clock": 20,
+    "1.65.1": 40
+  },
+  "cells": [
+    {
+      "version": "1.40.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Expected: /Users/gary.parker/git/poc-playwright-update-snapshots-unstable/work/1.40.0/snapshots/card.png": 3
+      }
+    },
+    {
+      "version": "1.40.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.40.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Expected: /Users/gary.parker/git/poc-playwright-update-snapshots-unstable/work/1.40.0/snapshots/card.png": 3
+      }
+    },
+    {
+      "version": "1.40.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 181,
+      "errors": {}
+    },
+    {
+      "version": "1.45.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Expected: /Users/gary.parker/git/poc-playwright-update-snapshots-unstable/work/1.45.0/snapshots/card.png": 3
+      }
+    },
+    {
+      "version": "1.45.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.45.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Expected: /Users/gary.parker/git/poc-playwright-update-snapshots-unstable/work/1.45.0/snapshots/card.png": 3
+      }
+    },
+    {
+      "version": "1.45.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 166,
+      "errors": {}
+    },
+    {
+      "version": "1.49.1",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.49.1",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.49.1",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.49.1",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 184,
+      "errors": {}
+    },
+    {
+      "version": "1.50.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.50.0",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.50.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.50.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.50.0",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 199,
+      "errors": {}
+    },
+    {
+      "version": "1.50.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 215,
+      "errors": {}
+    },
+    {
+      "version": "1.52.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.52.0",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.52.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.52.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.52.0",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 196,
+      "errors": {}
+    },
+    {
+      "version": "1.52.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 201,
+      "errors": {}
+    },
+    {
+      "version": "1.55.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.55.0",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.55.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.55.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.55.0",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 168,
+      "errors": {}
+    },
+    {
+      "version": "1.55.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 203,
+      "errors": {}
+    },
+    {
+      "version": "1.57.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.57.0",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.57.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.57.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 3,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 3
+      }
+    },
+    {
+      "version": "1.57.0",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 185,
+      "errors": {}
+    },
+    {
+      "version": "1.57.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 3,
+      "passed": 3,
+      "exit0": 3,
+      "baselineOverwritten": 3,
+      "nextStableFailed": 3,
+      "maxChangedPixels": 215,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "stable",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "stable",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "stable",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "stable",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "css-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "css-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "css-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "css-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "js-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.58.2",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.58.2",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "live-clock",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.58.2",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.58.2",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 209,
+      "errors": {}
+    },
+    {
+      "version": "1.58.2",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 231,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "stable",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "stable",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "stable",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "stable",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "css-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "css-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "css-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "css-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "js-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.0",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.0",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "live-clock",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.0",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.0",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 228,
+      "errors": {}
+    },
+    {
+      "version": "1.59.0",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 214,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "stable",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "stable",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "stable",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "stable",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "css-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "css-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "css-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "css-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "js-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.1",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.1",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "live-clock",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.1",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.59.1",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 228,
+      "errors": {}
+    },
+    {
+      "version": "1.59.1",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 227,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "stable",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "stable",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "stable",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "stable",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "js-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1507,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1590,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "live-clock",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask #bar,#clock",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "stable",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "stable",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "stable",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "stable",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "js-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "live-clock",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1 mask .track,#clock",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "stable",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "stable",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "stable",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "stable",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "css-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "css-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "css-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "css-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "js-animation",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.65.1",
+      "page": "js-animation",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.65.1",
+      "page": "js-animation",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "js-animation",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 1412,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "live-clock",
+      "flag": "none",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.65.1",
+      "page": "live-clock",
+      "flag": "missing",
+      "runs": 10,
+      "passed": 0,
+      "exit0": 0,
+      "baselineOverwritten": 0,
+      "nextStableFailed": 0,
+      "maxChangedPixels": 0,
+      "errors": {
+        "Failed to take two consecutive stable screenshots.": 10
+      }
+    },
+    {
+      "version": "1.65.1",
+      "page": "live-clock",
+      "flag": "changed",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 202,
+      "errors": {}
+    },
+    {
+      "version": "1.65.1",
+      "page": "live-clock",
+      "flag": "all",
+      "runs": 10,
+      "passed": 10,
+      "exit0": 10,
+      "baselineOverwritten": 10,
+      "nextStableFailed": 10,
+      "maxChangedPixels": 213,
+      "errors": {}
+    }
+  ]
+}

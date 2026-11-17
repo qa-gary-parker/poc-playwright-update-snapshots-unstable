@@ -1,0 +1,160 @@
+{"version":"1.58.2","page":"stable","flag":"none","rep":1,"exit":0,"status":"passed","error":null,"ms":1663,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":2,"exit":0,"status":"passed","error":null,"ms":1709,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":3,"exit":0,"status":"passed","error":null,"ms":1775,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":4,"exit":0,"status":"passed","error":null,"ms":2681,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":5,"exit":0,"status":"passed","error":null,"ms":1659,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":6,"exit":0,"status":"passed","error":null,"ms":2294,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":7,"exit":0,"status":"passed","error":null,"ms":1661,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":8,"exit":0,"status":"passed","error":null,"ms":1748,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":9,"exit":0,"status":"passed","error":null,"ms":1677,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"none","rep":10,"exit":0,"status":"passed","error":null,"ms":1838,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":1,"exit":0,"status":"passed","error":null,"ms":1688,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":2,"exit":0,"status":"passed","error":null,"ms":1752,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":3,"exit":0,"status":"passed","error":null,"ms":1797,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":4,"exit":0,"status":"passed","error":null,"ms":1593,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":5,"exit":0,"status":"passed","error":null,"ms":1766,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":6,"exit":0,"status":"passed","error":null,"ms":1682,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":7,"exit":0,"status":"passed","error":null,"ms":1614,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":8,"exit":0,"status":"passed","error":null,"ms":1837,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":9,"exit":0,"status":"passed","error":null,"ms":1671,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"missing","rep":10,"exit":0,"status":"passed","error":null,"ms":1629,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":1,"exit":0,"status":"passed","error":null,"ms":1733,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":2,"exit":0,"status":"passed","error":null,"ms":1707,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":3,"exit":0,"status":"passed","error":null,"ms":1643,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":4,"exit":0,"status":"passed","error":null,"ms":1710,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":5,"exit":0,"status":"passed","error":null,"ms":1674,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":6,"exit":0,"status":"passed","error":null,"ms":1737,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":7,"exit":0,"status":"passed","error":null,"ms":1665,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":8,"exit":0,"status":"passed","error":null,"ms":1674,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":9,"exit":0,"status":"passed","error":null,"ms":1704,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"changed","rep":10,"exit":0,"status":"passed","error":null,"ms":1626,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":1,"exit":0,"status":"passed","error":null,"ms":1793,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":2,"exit":0,"status":"passed","error":null,"ms":1814,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":3,"exit":0,"status":"passed","error":null,"ms":1837,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":4,"exit":0,"status":"passed","error":null,"ms":1947,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":5,"exit":0,"status":"passed","error":null,"ms":2288,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":6,"exit":0,"status":"passed","error":null,"ms":2026,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":7,"exit":0,"status":"passed","error":null,"ms":1926,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":8,"exit":0,"status":"passed","error":null,"ms":2253,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":9,"exit":0,"status":"passed","error":null,"ms":1785,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"stable","flag":"all","rep":10,"exit":0,"status":"passed","error":null,"ms":1753,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":1,"exit":0,"status":"passed","error":null,"ms":1679,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":2,"exit":0,"status":"passed","error":null,"ms":1715,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":3,"exit":0,"status":"passed","error":null,"ms":1588,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":4,"exit":0,"status":"passed","error":null,"ms":1613,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":5,"exit":0,"status":"passed","error":null,"ms":2179,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":6,"exit":0,"status":"passed","error":null,"ms":1823,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":7,"exit":0,"status":"passed","error":null,"ms":1629,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":8,"exit":0,"status":"passed","error":null,"ms":1764,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":9,"exit":0,"status":"passed","error":null,"ms":1687,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"none","rep":10,"exit":0,"status":"passed","error":null,"ms":1856,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":1,"exit":0,"status":"passed","error":null,"ms":1775,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":2,"exit":0,"status":"passed","error":null,"ms":1713,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":3,"exit":0,"status":"passed","error":null,"ms":1627,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":4,"exit":0,"status":"passed","error":null,"ms":1722,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":5,"exit":0,"status":"passed","error":null,"ms":1683,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":6,"exit":0,"status":"passed","error":null,"ms":1591,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":7,"exit":0,"status":"passed","error":null,"ms":1611,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":8,"exit":0,"status":"passed","error":null,"ms":1604,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":9,"exit":0,"status":"passed","error":null,"ms":1696,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"missing","rep":10,"exit":0,"status":"passed","error":null,"ms":1634,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":1,"exit":0,"status":"passed","error":null,"ms":1610,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":2,"exit":0,"status":"passed","error":null,"ms":1586,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":3,"exit":0,"status":"passed","error":null,"ms":1658,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":4,"exit":0,"status":"passed","error":null,"ms":1700,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":5,"exit":0,"status":"passed","error":null,"ms":1609,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":6,"exit":0,"status":"passed","error":null,"ms":1594,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":7,"exit":0,"status":"passed","error":null,"ms":1637,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":8,"exit":0,"status":"passed","error":null,"ms":1688,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":9,"exit":0,"status":"passed","error":null,"ms":1569,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"changed","rep":10,"exit":0,"status":"passed","error":null,"ms":1626,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":1,"exit":0,"status":"passed","error":null,"ms":1642,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":2,"exit":0,"status":"passed","error":null,"ms":1639,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":3,"exit":0,"status":"passed","error":null,"ms":1688,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":4,"exit":0,"status":"passed","error":null,"ms":1786,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":5,"exit":0,"status":"passed","error":null,"ms":1729,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":6,"exit":0,"status":"passed","error":null,"ms":1630,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":7,"exit":0,"status":"passed","error":null,"ms":1694,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":8,"exit":0,"status":"passed","error":null,"ms":1763,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":9,"exit":0,"status":"passed","error":null,"ms":1650,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"css-animation","flag":"all","rep":10,"exit":0,"status":"passed","error":null,"ms":1711,"baselineChanged":true,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":1,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6546,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":2,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6596,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":3,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6564,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":4,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6493,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":5,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6542,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":6,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6586,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":7,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6500,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":8,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6506,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":9,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6527,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"none","rep":10,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6515,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":1,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6480,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":2,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6588,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":3,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6672,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":4,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6568,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":5,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6444,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":6,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6526,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":7,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6584,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":8,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6580,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":9,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6571,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"missing","rep":10,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6558,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":1,"exit":0,"status":"passed","error":null,"ms":6459,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":2,"exit":0,"status":"passed","error":null,"ms":6593,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":3,"exit":0,"status":"passed","error":null,"ms":6635,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":4,"exit":0,"status":"passed","error":null,"ms":6521,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":5,"exit":0,"status":"passed","error":null,"ms":6538,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":6,"exit":0,"status":"passed","error":null,"ms":6557,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":7,"exit":0,"status":"passed","error":null,"ms":6558,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":8,"exit":0,"status":"passed","error":null,"ms":6561,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":9,"exit":0,"status":"passed","error":null,"ms":6540,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"changed","rep":10,"exit":0,"status":"passed","error":null,"ms":6564,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":1,"exit":0,"status":"passed","error":null,"ms":6553,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":2,"exit":0,"status":"passed","error":null,"ms":6567,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":3,"exit":0,"status":"passed","error":null,"ms":6586,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":4,"exit":0,"status":"passed","error":null,"ms":6492,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":5,"exit":0,"status":"passed","error":null,"ms":6526,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":6,"exit":0,"status":"passed","error":null,"ms":6578,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":7,"exit":0,"status":"passed","error":null,"ms":6624,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":8,"exit":0,"status":"passed","error":null,"ms":6530,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":9,"exit":0,"status":"passed","error":null,"ms":6488,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"js-animation","flag":"all","rep":10,"exit":0,"status":"passed","error":null,"ms":6556,"baselineChanged":true,"changedPixels":1412,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":1,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6540,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":2,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6571,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":3,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6469,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":4,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6568,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":5,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6551,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":6,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6524,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":7,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6664,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":8,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6493,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":9,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6501,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"none","rep":10,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6512,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":1,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6577,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":2,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6547,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":3,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6538,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":4,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6462,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":5,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6516,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":6,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6571,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":7,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6528,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":8,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6440,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":9,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6515,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"missing","rep":10,"exit":1,"status":"failed","error":"Failed to take two consecutive stable screenshots.","ms":6463,"baselineChanged":false,"changedPixels":0,"nextStableRun":"passed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":1,"exit":0,"status":"passed","error":null,"ms":6506,"baselineChanged":true,"changedPixels":143,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":2,"exit":0,"status":"passed","error":null,"ms":6396,"baselineChanged":true,"changedPixels":150,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":3,"exit":0,"status":"passed","error":null,"ms":6984,"baselineChanged":true,"changedPixels":163,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":4,"exit":0,"status":"passed","error":null,"ms":6522,"baselineChanged":true,"changedPixels":144,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":5,"exit":0,"status":"passed","error":null,"ms":6560,"baselineChanged":true,"changedPixels":114,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":6,"exit":0,"status":"passed","error":null,"ms":6521,"baselineChanged":true,"changedPixels":139,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":7,"exit":0,"status":"passed","error":null,"ms":6442,"baselineChanged":true,"changedPixels":209,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":8,"exit":0,"status":"passed","error":null,"ms":6473,"baselineChanged":true,"changedPixels":190,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":9,"exit":0,"status":"passed","error":null,"ms":6416,"baselineChanged":true,"changedPixels":163,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"changed","rep":10,"exit":0,"status":"passed","error":null,"ms":6538,"baselineChanged":true,"changedPixels":187,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":1,"exit":0,"status":"passed","error":null,"ms":6551,"baselineChanged":true,"changedPixels":191,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":2,"exit":0,"status":"passed","error":null,"ms":6520,"baselineChanged":true,"changedPixels":139,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":3,"exit":0,"status":"passed","error":null,"ms":6576,"baselineChanged":true,"changedPixels":128,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":4,"exit":0,"status":"passed","error":null,"ms":6503,"baselineChanged":true,"changedPixels":115,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":5,"exit":0,"status":"passed","error":null,"ms":6517,"baselineChanged":true,"changedPixels":117,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":6,"exit":0,"status":"passed","error":null,"ms":6667,"baselineChanged":true,"changedPixels":136,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":7,"exit":0,"status":"passed","error":null,"ms":6883,"baselineChanged":true,"changedPixels":149,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":8,"exit":0,"status":"passed","error":null,"ms":6472,"baselineChanged":true,"changedPixels":186,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":9,"exit":0,"status":"passed","error":null,"ms":6464,"baselineChanged":true,"changedPixels":231,"nextStableRun":"failed"}
+{"version":"1.58.2","page":"live-clock","flag":"all","rep":10,"exit":0,"status":"passed","error":null,"ms":6415,"baselineChanged":true,"changedPixels":173,"nextStableRun":"failed"}

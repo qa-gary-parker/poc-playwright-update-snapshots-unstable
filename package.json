@@ -1,0 +1,16 @@
+{
+  "name": "poc-playwright-update-snapshots-unstable",
+  "version": "1.0.0",
+  "description": "How often toHaveScreenshot overwrites a good baseline and passes when the page never becomes stable",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "run": "node harness/run.mjs",
+    "summary": "node harness/summary.mjs"
+  },
+  "devDependencies": {
+    "pixelmatch": "8.0.0",
+    "pngjs": "7.0.0"
+  }
+}
