@@ -1,0 +1,8 @@
+
+Running 1 test using 1 worker
+
+work/1.65.1/snapshots/card.png is re-generated, writing actual.
+  ✓  1 card.spec.ts:4:1 › build status card (5.1s)
+
+  1 passed (5.3s)
+exit 0
